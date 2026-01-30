@@ -73,7 +73,7 @@ void ARideDownToHellCharacter::MoveInput(const FInputActionValue& Value)
 	FVector2D MovementVector = Value.Get<FVector2D>();
 
 	// pass the axis values to the move input
-	DoMove(MovementVector.X, MovementVector.Y);
+	//DoMove(MovementVector.X, MovementVector.Y);
 
 }
 
@@ -110,7 +110,7 @@ void ARideDownToHellCharacter::DoMove(float Right, float Forward)
 void ARideDownToHellCharacter::DoJumpStart()
 {
 	// pass Jump to the character
-	Jump();
+	//Jump();
 }
 
 void ARideDownToHellCharacter::DoJumpEnd()
