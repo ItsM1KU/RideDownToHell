@@ -73,8 +73,9 @@ void ARideDownToHellCharacter::MoveInput(const FInputActionValue& Value)
 	FVector2D MovementVector = Value.Get<FVector2D>();
 
 	// pass the axis values to the move input
-	//DoMove(MovementVector.X, MovementVector.Y);
-
+	if (canMove) {
+		DoMove(MovementVector.X, MovementVector.Y);
+	}
 }
 
 void ARideDownToHellCharacter::LookInput(const FInputActionValue& Value)
