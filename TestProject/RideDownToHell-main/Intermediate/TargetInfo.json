@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RideDownToHell",
+			"Path": "..\\Source\\RideDownToHell.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RideDownToHellEditor",
+			"Path": "..\\Source\\RideDownToHellEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
