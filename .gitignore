@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/Wwise/Content/S_AkComponent.uasset
+Plugins/Wwise/Content/S_AkSpotReflector.uasset
+RideDownToHell_WwiseProject/.cache/LMDB/lock.mdb
+RideDownToHell_WwiseProject/.cache/LMDB/data.mdb
