@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ATSmi\\OneDrive\\Documents\\GitHub\\RideDownToHell\\TestProject\\RideDownToHell-main\\Source\\RideDownToHell\\RideDownToHell.Build.cs",
+		"C:\\Users\\ATSmi\\OneDrive\\Documents\\GitHub\\RideDownToHell\\TestProject\\RideDownToHell-main\\Source\\RideDownToHell.Target.cs",
+		"C:\\Users\\ATSmi\\OneDrive\\Documents\\GitHub\\RideDownToHell\\TestProject\\RideDownToHell-main\\Source\\RideDownToHellEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
