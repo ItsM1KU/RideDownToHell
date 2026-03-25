@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="1433397863" Type="Event" GUID="{4DE78708-DE21-4FA1-A0A8-EFB3F50F9965}" Language="SFX" Hash="{22FAFF72-49CD-48E3-0389-639A2A547D62}">
+			<ObjectPath>Steam</ObjectPath>
+			<ShortName>Steam</ShortName>
+			<Path>Event/Steam.bnk</Path>
+			<Media>
+				<File Id="301560387" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>SteamFull1.wav</ShortName>
+					<Path>Media/301560387.wem</Path>
+					<CachePath>5D/{5D5C831B-1146-97FC-2FAF-98EE83BE0095}.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1433397863" Name="Steam" ObjectPath="\Events\Default Work Unit\Steam" GUID="{4DE78708-DE21-4FA1-A0A8-EFB3F50F9965}" DurationType="OneShot" DurationMin="6" DurationMax="6">
+					<MediaRefs>
+						<MediaRef Id="301560387"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{C3781A0F-F589-38C5-F394-E2140EA86082}</FileHash>
+</SoundBanksInfo>

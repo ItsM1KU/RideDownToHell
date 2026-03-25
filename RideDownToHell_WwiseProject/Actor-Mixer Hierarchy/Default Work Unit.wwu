@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F75E2EDC-4B05-41C8-9411-A5817F29B962}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{F75E2EDC-4B05-41C8-9411-A5817F29B962}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="SteamFull1" ID="{6F785342-A6B8-4CEC-AB3F-34BB57367011}" ShortID="56539687">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{75E9BE43-D065-42ED-8D84-C6B831967407}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B0D41CC4-0FD0-4726-B960-3A6CB9B0A894}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="SteamFull1" ID="{9A7DFD4E-058F-4135-BC04-26684CB91724}">
+							<Language>SFX</Language>
+							<AudioFile>SteamFull1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="301560387"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="SteamFull1" ID="{9A7DFD4E-058F-4135-BC04-26684CB91724}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

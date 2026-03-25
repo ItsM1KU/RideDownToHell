@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B2338605-D6D7-49A6-9B1A-7D6C5AEC6D99}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B2338605-D6D7-49A6-9B1A-7D6C5AEC6D99}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Steam" ID="{4DE78708-DE21-4FA1-A0A8-EFB3F50F9965}">
+					<ChildrenList>
+						<Action Name="" ID="{EF686457-5228-4C7F-9BF0-06104274BBA3}" ShortID="102729346">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SteamFull1" ID="{6F785342-A6B8-4CEC-AB3F-34BB57367011}" WorkUnitID="{F75E2EDC-4B05-41C8-9411-A5817F29B962}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
