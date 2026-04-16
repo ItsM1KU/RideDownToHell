@@ -6,6 +6,6 @@
 ARideDownToHellCameraManager::ARideDownToHellCameraManager()
 {
 	// set the min/max pitch
-	ViewPitchMin = -70.0f;
+	ViewPitchMin = -80.0f;
 	ViewPitchMax = 80.0f;
 }
