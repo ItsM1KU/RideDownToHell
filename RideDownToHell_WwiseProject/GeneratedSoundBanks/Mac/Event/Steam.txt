@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1433397863	Steam			\Default Work Unit\Steam	
-
